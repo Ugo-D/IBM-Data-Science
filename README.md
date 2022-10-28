@@ -1,2 +1,2 @@
 # IBM-Data-Science
-Course to become a Data Scientist for beginners.
+Career change course to become a Data Scientist for beginners
